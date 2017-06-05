@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge.GameObjects", "TurtleChallenge.GameObjects\TurtleChallenge.GameObjects.csproj", "{CC4C843F-CF21-4F00-A8D2-B630531FF532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge.Application", "TurtleChallenge.Application\TurtleChallenge.Application.csproj", "{189126D3-D78F-4C3C-BDEB-4CC9C1FC7E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4C843F-CF21-4F00-A8D2-B630531FF532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4C843F-CF21-4F00-A8D2-B630531FF532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4C843F-CF21-4F00-A8D2-B630531FF532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4C843F-CF21-4F00-A8D2-B630531FF532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189126D3-D78F-4C3C-BDEB-4CC9C1FC7E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189126D3-D78F-4C3C-BDEB-4CC9C1FC7E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189126D3-D78F-4C3C-BDEB-4CC9C1FC7E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189126D3-D78F-4C3C-BDEB-4CC9C1FC7E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

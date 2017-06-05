@@ -1,0 +1,18 @@
+
+board:
+    size_x: 5
+    size_y: 4
+turtle:
+    pos_x: 0
+    pos_y: 1
+    direction: "north"
+exit:
+    pos_x: 4
+    pos_y: 2
+mines:
+    -   pos_x: 1
+        pos_y: 1
+    -   pos_x: 3
+        pos_y: 1
+    -   pos_x: 3
+        pos_y: 3
